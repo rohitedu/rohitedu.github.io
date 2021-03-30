@@ -1,1 +1,2 @@
-# rohitedu-github.io
+# rohitedu.github.io
+My personal homepage
